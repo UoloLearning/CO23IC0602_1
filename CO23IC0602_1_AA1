@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Exploring Nested Lists in HTML</title>
+  <h1>Exploring Nested Lists in HTML</h1>
+  <ul>
+  <li>Animals
+    <ul>
+      <li>Lion</li>
+      <li>Elephant</li>
+      <li>Tiger</li>
+    </ul>
+  </li>
+  <li>Colors</li>
+  <li>Fruits</li>
+</ul>
+</head>
+<body>
+</body>
+</html>
