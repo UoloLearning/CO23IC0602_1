@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
-<body>
+
 <head>
   <title>Create a List of Items Required in a Birthday Party</title>
+</head>
+<body>
   <h1>List of Items Required in a Birthday Party</h1>
     <ul>
       <li>Party decorations</li>
@@ -11,6 +13,5 @@
       <li>Party hats</li>
       <li>Games</li>
   </ul>
-</head>
 </body>
 </html>
